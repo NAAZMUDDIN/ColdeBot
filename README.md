@@ -102,7 +102,7 @@ Please read these Terms of Service carefully before using [ColdeBot](https://dis
 
 By using the Bot, you signify your understanding and agreement to the terms of these Terms of Service. It is advised to review these Terms periodically for any updates or changes.
 
-# ColdeBor Guidelines
+# ColdeBot Guidelines
 
 Welcome to ColdeBot To ensure a positive and enjoyable experience for all users, please adhere to the following guidelines:
 
@@ -148,4 +148,4 @@ Please keep in mind that these guidelines are in place to foster a positive and 
 
 
 
-# Thanks for Using ColdeMC Have A Nice Day <3
+# Thanks for Using ColdeBot Have A Nice Day <3
