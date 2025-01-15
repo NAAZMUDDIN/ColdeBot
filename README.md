@@ -1,7 +1,7 @@
 # Privacy Policy of ColdeBot
 
 
-This Privacy Policy outlines the practices and procedures regarding the collection, use, and disclosure of personal information by [ColdeBot](https://discord.com/oauth2/authorize?client_id=1327518267698581555&permissions=8&integration_type=0&scope=bot) in connection with its operations and services provided through the Discord platform. By using the Bot, you acknowledge and consent to the practices described in this Privacy Policy.
+This Privacy Policy outlines the practices and procedures regarding the collection, use, and disclosure of personal information by [ColdeBot](https://discord.com/oauth2/authorize?client_id=1328952088134422568&permissions=8&integration_type=0&scope=bot) in connection with its operations and services provided through the Discord platform. By using the Bot, you acknowledge and consent to the practices described in this Privacy Policy.
 
 ## 1. Collection of Personal Information:
 The Bot may collect and store certain personal information, including but not limited to:
@@ -41,7 +41,7 @@ By using the Bot, you signify your understanding and agreement to the terms of t
 # Terms of Service for ColdeBot
 
 
-Please read these Terms of Service carefully before using [ColdeBot](https://discord.com/oauth2/authorize?client_id=1327518267698581555&permissions=8&integration_type=0&scope=bot) operated by [NotOpx Development](https://discord.gg/mZBtu84xGH). By using the Bot, you agree to be bound by these Terms.
+Please read these Terms of Service carefully before using [ColdeBot](https://discord.com/oauth2/authorize?client_id=1328952088134422568&permissions=8&integration_type=0&scope=bot) operated by [NotOpx Development](https://discord.gg/mZBtu84xGH). By using the Bot, you agree to be bound by these Terms.
 
 ## 1. Bot Usage
 
